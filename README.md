@@ -1,7 +1,7 @@
 <h1 align="center">Afia Nasumudeen</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Developer;Building+Tech+for+Impact;NLP+%7C+Computer+Vision+%7C+Voice+AI&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Developer;Building+Tech+for+Impact;NLP+%7C+Computer+Vision+%7C+RAG&center=true&width=500&height=45">
 </p>
 
 <p align="center">
