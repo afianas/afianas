@@ -58,7 +58,6 @@ My interests lie in **Natural Language Processing, Computer Vision, and RAG**, I
 ![Spline](https://img.shields.io/badge/Spline-000000?style=for-the-badge)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Joblib](https://img.shields.io/badge/Joblib-4B8BBE?style=for-the-badge)
 
 ---
 
