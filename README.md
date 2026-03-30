@@ -34,7 +34,6 @@ My interests lie in **Natural Language Processing, Computer Vision, and RAG**, I
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FFB000?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -89,7 +88,7 @@ Processes user input into structured inventory actions using NLP
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/afianas/afianas/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -97,7 +96,7 @@ Processes user input into structured inventory actions using NLP
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=afianas&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -105,7 +104,7 @@ Processes user input into structured inventory actions using NLP
 ## 📫 Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/afianas">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
