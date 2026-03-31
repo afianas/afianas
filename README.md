@@ -4,105 +4,98 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+ML+Developer;Building+Tech+for+Impact;NLP+%7C+Computer+Vision+%7C+RAG&center=true&width=500&height=45">
 </p>
 
-<p align="center">
-  🚀 Computer Science Engineering Student | AI/ML  
-</p>
-
----
-
 ## 🧠 About Me
 
-I focus on building **real-world AI systems** that solve practical problems.  
-My work spans **Natural Language Processing, Computer Vision, and Retrieval-Augmented Generation (RAG)**, with an emphasis on creating usable, end-to-end applications.
+I'm a Computer Science student who turns ideas into **working AI-powered products**— not just models, but complete systems with high-performance APIs and scalable architectures.
+
+- 🔭 **Currently architecting:** High-precision RAG pipelines for meeting intelligence.
+- 🌱 **Exploring:** LLM agents, multi-modal AI, and scalable backend architectures
+- 💡 **Interested in:** LLMs & RAG · Computer Vision · ML
+  
+---
+
+## 🚀 Featured Projects
+
+### 📊 [Meetric — Meeting Intelligence Hub](https://github.com/afianas/Meetric-Meeting-Intelligence-Hub)
+> *Production-ready RAG platform extracting structured decisions from raw conversations.*
+
+- Engineered a dual-stage retrieval pipeline using **FAISS** (Bi-Encoder) + **BGE-Reranker** (Cross-Encoder) + **Llama 3.3** for grounded extraction.
+- **⚙️ LLM Integration:** Architected a Llama 3.3-70B powered extraction engine using advanced Prompt Engineering to convert unstructured transcripts into action items and decisions.
+- **🔍 Explainability:** Full traceability linking every decision back to exact transcript segments.
+- **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT trained on GoEmotions.
+
+### 🍽️ [BiteSmart — Food Recognition & Calorie Estimator](https://github.com/afianas/BiteSmart)
+> *Computer Vision system for real-time dietary intelligence.*
+
+- Leveraged **EfficientNetB3** with fine-tuning, achieving **82.8% Top-1 accuracy** on Food-101.
+- **📈 Impact:** Instant calorie estimation via fuzzy matching (Fuse.js) against a local nutritional database.
+- **🛠️ Tech:** TensorFlow, Keras, FastAPI, React 19 (Vite), Framer Motion.
+
+### 🔊 [Invora — Voice Commerce for MSMEs](https://github.com/afianas/Invora_Voice_Commerce)
+> *Multilingual, voice-first inventory intelligence for small-scale suppliers.*
+
+- Integrated **OpenAI Whisper ASR** with a custom rule-based NLP parser for Malayalam, Hindi, and English.
+- **📈 Impact:** Hands-free warehouse management with Pareto-based (ABC) revenue analysis for shopkeepers.
+- **🛠️ Tech:** React Native (Expo), FastAPI, Whisper, RapidFuzz.
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+### Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-VectorDB-blue?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Frontend & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-### 💻 Languages  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
----
-
-### 🤖 AI / ML  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sentence--Transformers-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
----
-
-### 🌐 Development  
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-
----
-
-### 🧰 Tools & Platforms  
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-FF7262?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spline-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-<img src="https://img.shields.io/badge/Joblib-4B8BBE?style=for-the-badge"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afianas&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=afianas&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🤝 Let's Connect
 
-### 🧠 SpellCheck – AI Spelling Tutor  
-Hybrid NLP system combining transformer models and character-level ML to detect and classify spelling errors with high accuracy. Designed to provide meaningful feedback rather than simple corrections.
-
----
-
-### 📊 Meetric – Meeting Intelligence Hub  
-AI-powered system that processes meeting data to generate summaries, extract key insights, and identify action items, improving productivity and information retention.
-
----
-
-### 🔊 Invora – Inventory System  
-Processes user inputs into structured inventory updates using NLP pipelines, focusing on usability and efficient data handling.
-
----
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afianas&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=afianas&show_icons=true&theme=radical)
-
----
-
-## Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=afianas)
-![GitHub Streak](https://streak-stats.demolab.com/?user=afianas)
-
----
-
-## 📫 Connect
+I'm open to **collaborations, internships, and conversations** about building the next generation of intelligent systems.
 
 <p align="center">
   <a href="https://linkedin.com/in/afianas">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:afianhabeeb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-afia.nasumudeen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:afia.nasumudeen@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+<p align="center">
+  <i>"The best way to predict the future is to engineer it."</i>
 </p>
