@@ -24,6 +24,13 @@ I'm a Computer Science and Business Systems student working on solving real worl
 - **🔍 Explainability:** Full traceability linking every decision back to exact transcript segments.
 - **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT trained on GoEmotions.
 
+### 🧠 [SpellCheck - AI Spelling Tutor](https://github.com/afianas/SpellCheck)
+> *Hybrid NLP system for contextual error detection and adaptive learning.*
+> 
+- **⚙️ Hybrid Inference:** Engineered a multi-layered "waterfall" logic combining **Character-level N-grams** with a fine-tuned **DistilBERT** transformer.
+- **🎯 Error Classification:** Developed a multi-class classifier to identify specific student error types (Vowel Confusion, Letter Swaps etc.) for targeted feedback.
+- **🛠️ Tech:** Python, Transformers, Expo (Mobile), gTTs.
+
 ### 🍽️ [BiteSmart — Food Recognition & Calorie Estimator](https://github.com/afianas/BiteSmart)
 > *Computer Vision system for real-time dietary intelligence.*
 
