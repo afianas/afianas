@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a Computer Science student who turns ideas into **working AI-powered products**— not just models, but complete systems with high-performance APIs and scalable architectures.
+I'm a Computer Science and Business Systems student working on solving real world problems.
 
 - 🔭 **Currently architecting:** High-precision RAG pipelines for meeting intelligence.
 - 🌱 **Exploring:** LLM agents, multi-modal AI, and scalable backend architectures
@@ -17,7 +17,7 @@ I'm a Computer Science student who turns ideas into **working AI-powered product
 ## 🚀 Featured Projects
 
 ### 📊 [Meetric — Meeting Intelligence Hub](https://github.com/afianas/Meetric-Meeting-Intelligence-Hub)
-> *Production-ready RAG platform extracting structured decisions from raw conversations.*
+> *RAG platform extracting structured decisions from raw conversations.*
 
 - Engineered a dual-stage retrieval pipeline using **FAISS** (Bi-Encoder) + **BGE-Reranker** (Cross-Encoder) + **Llama 3.3** for grounded extraction.
 - **⚙️ LLM Integration:** Architected a Llama 3.3-70B powered extraction engine using advanced Prompt Engineering to convert unstructured transcripts into action items and decisions.
@@ -60,7 +60,6 @@ I'm a Computer Science student who turns ideas into **working AI-powered product
 ### Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-VectorDB-blue?style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### Frontend & Tools
@@ -75,7 +74,6 @@ I'm a Computer Science student who turns ideas into **working AI-powered product
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=afianas&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=afianas&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
