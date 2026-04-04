@@ -22,12 +22,12 @@ I'm a Computer Science and Business Systems student working on solving real worl
 - Engineered a dual-stage retrieval pipeline using **FAISS** (Bi-Encoder) + **BGE-Reranker** (Cross-Encoder) + **Llama 3.3** for grounded extraction.
 - **⚙️ LLM Integration:** Architected a Llama 3.3-70B powered extraction engine using advanced Prompt Engineering to convert unstructured transcripts into action items and decisions.
 - **🔍 Explainability:** Full traceability linking every decision back to exact transcript segments.
-- **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT trained on GoEmotions.
+- **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT.
 
 ### 🧠 [SpellCheck - AI Spelling Tutor](https://github.com/afianas/SpellCheck)
 > *Hybrid NLP system for contextual error detection and adaptive learning.*
 > 
-- **⚙️ Hybrid Inference:** Engineered a multi-layered "waterfall" logic combining **Character-level N-grams** with a fine-tuned **DistilBERT** transformer.
+- **⚙️ Hybrid Inference:** Combining **Character-level N-grams** with a fine-tuned **DistilBERT** transformer.
 - **🎯 Error Classification:** Developed a multi-class classifier to identify specific student error types (Vowel Confusion, Letter Swaps etc.) for targeted feedback.
 - **🛠️ Tech:** Python, Transformers, Expo (Mobile), gTTs.
 
