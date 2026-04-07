@@ -19,7 +19,7 @@ I'm a Computer Science and Business Systems student working on solving real worl
 ### 📊 [Meetric — Meeting Intelligence Hub](https://github.com/afianas/Meetric-Meeting-Intelligence-Hub)
 > *RAG platform extracting structured decisions from raw conversations.*
 
-- Engineered a dual-stage retrieval pipeline using **FAISS** (Bi-Encoder) + **BGE-Reranker** (Cross-Encoder) + **Llama 3.3** for grounded extraction.
+- Engineered a dual-stage retrieval architecture combining Pinecone (Serverless) + BGE-Reranker (Cross-Encoder) with Llama 3.3-70B for high-precision, grounded extraction and synthesi.
 - **⚙️ LLM Integration:** Architected a Llama 3.3-70B powered extraction engine using advanced Prompt Engineering to convert unstructured transcripts into action items and decisions.
 - **🔍 Explainability:** Full traceability linking every decision back to exact transcript segments.
 - **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT.
@@ -34,7 +34,7 @@ I'm a Computer Science and Business Systems student working on solving real worl
 ### 🍽️ [BiteSmart — Food Recognition & Calorie Estimator](https://github.com/afianas/BiteSmart)
 > *Computer Vision system for real-time dietary intelligence.*
 
-- Leveraged **EfficientNetB3** with fine-tuning, achieving **82.8% Top-1 accuracy** on Food-101.
+- Leveraged **EfficientNetB3** with fine-tuning, achieving **82.8% Top-1 accuracy** and **94.5% Top-5 accuracy** on Food-101.
 - **📈 Impact:** Instant calorie estimation via fuzzy matching (Fuse.js) against a local nutritional database.
 - **🛠️ Tech:** TensorFlow, Keras, FastAPI, React 19 (Vite), Framer Motion.
 
