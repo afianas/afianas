@@ -19,7 +19,7 @@ I'm a Computer Science and Business Systems student working on solving real worl
 ### 📊 [Meetric — Meeting Intelligence Hub](https://github.com/afianas/Meetric-Meeting-Intelligence-Hub)
 > *RAG platform extracting structured decisions from raw conversations.*
 
-- Engineered a dual-stage retrieval architecture combining Pinecone (Serverless) + BGE-Reranker (Cross-Encoder) with Llama 3.3-70B for high-precision, grounded extraction and synthesi.
+- Engineered a dual-stage retrieval architecture combining Pinecone (Serverless) + BGE-Reranker (Cross-Encoder) with Llama 3.3-70B for high-precision, grounded extraction and synthesis.
 - **⚙️ LLM Integration:** Architected a Llama 3.3-70B powered extraction engine using advanced Prompt Engineering to convert unstructured transcripts into action items and decisions.
 - **🔍 Explainability:** Full traceability linking every decision back to exact transcript segments.
 - **🛠️ Tech:** FastAPI, React, MongoDB, FAISS, Groq, DistilBERT.
