@@ -42,7 +42,7 @@ I'm a Computer Science and Business Systems student working on solving real worl
 > *Multilingual, voice-first inventory intelligence for small-scale suppliers.*
 
 - Integrated **OpenAI Whisper ASR** with a custom rule-based NLP parser for Malayalam, Hindi, and English.
-- **📈 Impact:** Hands-free warehouse management with Pareto-based (ABC) revenue analysis for shopkeepers.
+- **📈 Impact:** Warehouse management with Pareto-based (ABC) revenue analysis for shopkeepers.
 - **🛠️ Tech:** React Native (Expo), FastAPI, Whisper, RapidFuzz.
 
 ---
